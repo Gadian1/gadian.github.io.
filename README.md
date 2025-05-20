@@ -1,7 +1,8 @@
 # Bem-vindo ao meu Portfólio
 Este é o meu portfólio online, onde compartilho minha trajetória, projetos e conquistas profissionais.
 ## Sobre mim
-Sou Gadian Luca Correa Moraes, um profissional da área de TI com expertise em Análise de Infraestrutura. Com um forte enfoque em suporte técnico, possuo ampla experiência em fornecer assistência de Nível 1 e Nível 2, sendo especializado em ferramentas como Power BI, SQL, e Python. Meu compromisso é aprimorar processos tecnológicos através de um gerenciamento eficaz de infraestrutura e uma abordagem orientada à resolução de problemas, atendendo prontamente às necessidades dos usuários finais.
+Sou Gadian Luca Correa Moraes, profissional de TI com formação em Análise e Desenvolvimento de Sistemas e sólido histórico em infraestrutura e suporte técnico. Minha experiência no atendimento ao usuário e na resolução de problemas me proporcionou amplo entendimento dos desafios práticos da área de tecnologia e desenvolveu minha capacidade de comunicação clara, empatia e foco em soluções rápidas e eficazes. Nos últimos anos, direcionei meus estudos e projetos para Análise de Dados e Desenvolvimento, e  conhecimentos em Power BI e SQL. Tenho habilidade para transformar dados em insights, criar dashboards interativos, automatizar rotinas e gerar valor real para o negócio através da tecnologia.
+Busco migrar para posições relacionadas a Análise de Dados, BI ou áreas de desenvolvimento, onde possa aplicar não apenas minha experiência técnica, mas também minha visão sistêmica e disposição para aprender continuamente. Estou comprometido em crescer e contribuir para equipes inovadoras, agregando excelência operacional e visão analítica ao trabalho.
 ## Formação Acadêmica
 - **Engenharia da Computação**
   - *USJT - Universidade São Judas Tadeu*
